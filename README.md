@@ -5,3 +5,4 @@ Este proyecto resumen detalla las funciones:
 - apply
 - also
 - let 
+- with
